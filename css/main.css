@@ -1,0 +1,136 @@
+body{
+
+}
+.container{
+  position: relative;
+  border: 2px solid  #ff80c3;
+  top:30px;
+  max-width: 800px;
+  padding-bottom: 35px;
+}
+
+#weeks {
+  padding: 17px;
+  margin: 5px;
+}
+#weeks img{
+  width: 300px;
+  height: 230px;
+  margin: 5%;
+  padding: 5%;
+  border-radius: 25%;
+}
+#schwButton {
+  color: #fff;
+  position: relative;
+  border-radius: 4px 4px 4px 4px;
+  background-color: #c7438e;
+  border-color: #c7438e;
+
+}
+
+#schwangerschaftPlugin .content{
+  text-align: center;
+  padding: 10px 20px;
+  margin: 5px auto;
+}
+
+#schwangerschaftPlugin .row{
+  margin-top: 15px;
+}
+
+#schwangerschaftPlugin .w3-button:hover, #schwButton:hover {
+  color: #fff;
+  background-color: #af347a;
+  border-color: #a63173;
+}
+
+#schwangerschaftPlugin .w3-button {
+  color: #fff;
+  border-radius: 4px 4px 4px 4px;
+  background-color: #c7438e;
+  border-color: #c7438e;
+  white-space: normal;
+  font-size: 18px!important;
+}
+
+#schwangerschaftPlugin .w3-button.previous {
+    margin-right: 8px;
+}
+
+#schwangerschaftPlugin .w3-button {
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+  }
+
+#schwangerschaftPlugin .btn {
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    margin: 16px 0 !important;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#schwangerschaftPlugin .share-buttons-wrapper {
+  padding:0;
+  margin:0;
+  list-style-type: none;
+}
+
+#schwangerschaftPlugin .share-buttons-wrapper li{
+  display: inline-block;
+  position: relative;
+}
+
+#schwangerschaftPlugin .share-buttons-wrapper li a {
+  display:block;
+  color: #FFFFFF;
+  box-sizing: content-box;
+}
+
+#schwangerschaftPlugin .share-buttons-wrapper li a span {
+  line-height: 32px;
+}
+
+#schwangerschaftPlugin .share-buttons-wrapper li a:hover {
+  text-decoration: none;
+  background-color: inherit !important;
+}
+
+#schwangerschaftPlugin .share-buttons-wrapper .share-icon svg {
+    width: 32px;
+    height: 20px;
+    padding: 7px 1px;
+    box-sizing: content-box;
+}
+
+#schwangerschaftPlugin .share-button-text {
+  padding-right:20px;
+}
+
+@media(max-width:767px){
+  #weeks img{
+    width: 85%;
+    height: 85%;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 25%;
+  }
+  #schwangerschaftPlugin .container{
+    max-width: 85%;
+    box-sizing: border-box;
+    font-size: 85%;
+    text-align: center;
+  }
+}
+
+@media(min-width:768px){}
+@media(min-width:992px){}
