@@ -32,6 +32,10 @@ function sswFunction($atts) {
 	wp_enqueue_script('ssw-popper-js', plugin_dir_url(__FILE__) . 'js/popper.min.js', array('jquery'), '1.0');
 	wp_enqueue_script('ssw-js', plugin_dir_url(__FILE__) . 'js/main.js', array('jquery'), '1.0');
 	wp_enqueue_style( 'ssw-css', plugin_dir_url(__FILE__) . 'css/main.css' );
+	
+
+	add_action( 'admin_init','sswPlugin');
+
 	 // function my_css_js() {
 	 // //   wp_enqueue_style( 'ssw-js', plugin_dir_url(__FILE__) . 'css/main.css' );
 	 // //   wp_enqueue_script( 'ssw-js', plugin_dir_url(__FILE__) . 'js/main.js', array('jquery'), '1.0' );

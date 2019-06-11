@@ -1,7 +1,7 @@
 <?php
 
 return '
-  <div class="container" id="schwangerschaftPlugin" data-imageurl="'. $imagePath . 'img/" data-selected-week="' . $selectedWeek . '">
+  <div class="container" id="schwangerschaftPlugin" style= "padding: 0;" data-imageurl="'. $imagePath . 'img/" data-selected-week="' . $selectedWeek . '">
       <div class="row justify-content-center">
         <p class="h2 text-center">Lorem Ipsum</p>
       </div>
@@ -31,7 +31,6 @@ return '
            </div>
       </div>
       <p id="textWeeks" class="card-text"></p>
-
       <div class="row justify-content-center">
         <button class="w3-button previous" id="js-previous">‹</button>
         <button class="w3-button next" id="js-next">›</button>
