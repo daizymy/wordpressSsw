@@ -1,5 +1,4 @@
 <?php
-
 return '
   <div class="container" id="schwangerschaftPlugin" style= "padding: 0;" data-imageurl="'. $imagePath . 'img/" data-selected-week="' . $selectedWeek . '">
       <div class="row justify-content-center">
@@ -30,18 +29,17 @@ return '
              <p class="h5 text-center">Lorem Ipsum</p>
            </div>
       </div>
-      <p id="textWeeks" class="card-text"></p>
       <div class="row justify-content-center">
         <button class="w3-button previous" id="js-previous">‹</button>
         <button class="w3-button next" id="js-next">›</button>
       </div>
+      <p id="textWeeks" class="card-text"></p>
 
       <div class="row justify-content-center">
-        <div class="col-2y">
+        <div class="col-2">
           <a href="#" id="js-week-link"><button type="button" id="schwButton" class="btn btn-primary">Was passiert in der Woche <span>1</span>?</button></a>
         </div>
       </div>
-
       <div class="row justify-content-center">
           <ul class="share-buttons-wrapper">
             <li style="background-color:#4273c8">
@@ -73,7 +71,5 @@ return '
               </a>
             </li>
           </ul>
-
-
     </div>
   </div>';

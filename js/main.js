@@ -168,8 +168,14 @@ $twitterShare.on('click',function(e) {
     return false;
   });
 
-  var $facebookShare = $('[data-js="facebook-share"]');
+  $facebookShare.on('click', function() {
+    $('meta[name=description]').remove();
+    $('head').append( '<meta name="description" content="this is new">' );
+  });
+  
 
+
+  var $facebookShare = $('[data-js="facebook-share"]');
   $facebookShare.on('click',function(e) {
     e.preventDefault();
     var facebookWindow = window.open('https://www.facebook.com/sharer/sharer.php?u=' + document.URL, 'facebook-popup', 'height=350,width=600');
