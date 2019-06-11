@@ -1,5 +1,9 @@
 <?php
+
 return '
+  <script type="text/javascript">
+    var calendarData = ' . $jsonData . '
+  </script>
   <div class="container" id="schwangerschaftPlugin" style= "padding: 0;" data-imageurl="'. $imagePath . 'img/" data-selected-week="' . $selectedWeek . '">
       <div class="row justify-content-center">
         <p class="h2 text-center">Lorem Ipsum</p>

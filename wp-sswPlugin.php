@@ -60,7 +60,7 @@ function sswFunction($atts) {
 	if (isset($_GET['ssw']) && is_numeric($_GET['ssw'])) {
 	    $selectedWeek = $_GET['ssw'];
 	}
-
+  $jsonData = file_get_contents(__DIR__ . '/js/data.js');
 	$result = include __DIR__ . '/template/index.php';
 	return $result;
 };
