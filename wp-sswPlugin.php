@@ -6,8 +6,8 @@ defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
 /*
 
-Plugin Name: wp-sswPlugin.php
-Description: A Babyartikel.de example plugin
+Plugin Name: wp-sswPlugin
+Description: A Babyartikel.de SSW plugin
 Version: 2019-06-04
 Author: Pyak Liliya
 Author URI: https://www.babyartikel.de/magazin
@@ -32,7 +32,7 @@ function sswFunction($atts) {
 	wp_enqueue_script('ssw-popper-js', plugin_dir_url(__FILE__) . 'js/popper.min.js', array('jquery'), '1.0');
 	wp_enqueue_script('ssw-js', plugin_dir_url(__FILE__) . 'js/main.js', array('jquery'), '1.0');
 	wp_enqueue_style( 'ssw-css', plugin_dir_url(__FILE__) . 'css/main.css' );
-	
+
 
 	add_action( 'admin_init','sswPlugin');
 
