@@ -3,7 +3,7 @@
 return '
   <div class="container" id="schwangerschaftPlugin" data-imageurl="'. $imagePath . 'img/" data-selected-week="' . $selectedWeek . '">
       <div class="row justify-content-center">
-        <p class="h2 text-center">Schwangerschaft Wochen</p>
+        <p class="h2 text-center">Lorem Ipsum</p>
       </div>
       <div class="row justify-content-center">
         <div class="col-6">
@@ -25,13 +25,12 @@ return '
          </div>
       </div>
       <div class="row justify-content-center">
-
            <div class="content">
-             <p class="h4 text-center">TRIMESTER WEEKS</p>
-             <p class="h5 text-center">Schwangerschaft</p>
-             <p id="textWeeks" class="card-text"></p>
+             <p class="h4 text-center">Lorem Ipsum</p>
+             <p class="h5 text-center">Lorem Ipsum</p>
            </div>
       </div>
+      <p id="textWeeks" class="card-text"></p>
 
       <div class="row justify-content-center">
         <button class="w3-button previous" id="js-previous">‹</button>

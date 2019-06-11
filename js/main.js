@@ -7,18 +7,30 @@ $( document ).ready(function(){
     },
     "1": {
       "image" : "1week.jpeg",
-      "description" : "erste WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      "description" :  "erste WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:" + "erste WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:" +"zweite WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:" + "erste WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
       + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:",
-      "link" : "https://www.babyartikel.de/magazin/schwangerschaftskalender",
     },
     "2": {
       "image" : "2week.jpeg",
-      "description" : "zweite Woche",
+      "description" :  "zweite WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:" + "erste WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:"+ "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:" + "erste WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:" +"zweite WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:" + "erste WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:",
       "link" : "https://www.babyartikel.de/magazin/schwangerschaftskalender",
     },
     "3": {
       "image": "3week.jpeg",
-      "description":"3 Woche",
+      "description" :  "dritte WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:" + "erste WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:"+ "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:" + "erste WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:" +"zweite WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:" + "erste WocheJetzt ist es Zeit, die Kliniktasche zu packen und sich in aller Ruhe auf die Geburt vorzubereiten. Die wenigsten Babys kommen zum errechneten Geburtstermin "
+      + "und Dein Bauch wird sich in den letzten Wochen noch einmal verändern. Unser Schwangerschaftskalender verrät Dir, was in den letzten Wochen vor der Geburt passiert:",
       "link" : "https://www.babyartikel.de/magazin/schwangerschaftskalender",
     },
     "4": {
